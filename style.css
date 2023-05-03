@@ -1,0 +1,131 @@
+img {
+    margin: -60px 0 25px 20px;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+.sedans {
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+    height: 500px;
+    width: 410px;
+    text-align: left;
+    padding: 160px 25px 25px 25px;
+    float: left;
+    border-radius: 10px 0 0 10px;
+}
+
+.sedans p {
+    color: hsl(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin: 50px 0 20px 20px;
+}
+
+.sedbutton {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+    font-size: 17px;
+    border: none;
+    height: 50px;
+    width: 140px;
+    border-radius: 25px;
+    border-color: white;
+    cursor: pointer;
+    margin: 100px 0 0 20px;
+}
+
+.sedbutton:active {
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+    border: 2px solid hsl(0, 0%, 95%);
+}
+
+.suvs {
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+    height: 500px;
+    width: 410px;
+    text-align: left;
+    padding: 160px 25px 25px 25px;
+    float: left;
+}
+
+.suvs p {
+    color: hsl(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin: 50px 0 20px 20px;
+}
+
+.suvbutton {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+    font-size: 17px;
+    border: none;
+    height: 50px;
+    width: 140px;
+    border-radius: 25px;
+    border-color: white;
+    cursor: pointer;
+    margin: 100px 0 0 20px;
+}
+
+.suvbutton:active {
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+    border: 2px solid hsl(0, 0%, 95%);
+}
+
+.luxury {
+    background-color: hsl(179, 77%, 13%);
+    color: hsl(0, 0%, 95%);
+    height: 500px;
+    width: 410px;
+    text-align: left;
+    padding: 160px 25px 25px 25px;
+    float: left;
+    text-align: left;
+    border-radius: 0 10px 10px 0;
+}
+
+.luxury p {
+    color: hsl(0, 0%, 100%, 0.75);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin: 50px 0 20px 20px;
+}
+
+.luxbutton {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 77%, 13%);
+    font-size: 17px;
+    border: none;
+    height: 50px;
+    width: 140px;
+    border-radius: 25px;
+    border-color: white;
+    cursor: pointer;
+    margin: 100px 0 0 20px;
+}
+
+.luxbutton:active {
+    background-color: hsl(179, 77%, 13%);
+    color: hsl(0, 0%, 95%);
+    border: 2px solid hsl(0, 0%, 95%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    float: none;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
